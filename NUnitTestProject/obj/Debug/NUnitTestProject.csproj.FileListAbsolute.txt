@@ -1,0 +1,14 @@
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\NUnitTestProject.dll.config
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\NUnitTestProject.dll
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\NUnitTestProject.pdb
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\System.Configuration.Abstractions.dll
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\WebDriver.dll
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\WebDriver.Support.dll
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\System.Configuration.Abstractions.pdb
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\WebDriver.Support.xml
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\obj\Debug\NUnitTestProject.dll
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\obj\Debug\NUnitTestProject.pdb
+C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\obj\Debug\NUnitTestProject.csprojResolveAssemblyReference.cache
