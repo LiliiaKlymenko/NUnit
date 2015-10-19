@@ -11,4 +11,3 @@ C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\
 C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\bin\Debug\WebDriver.Support.xml
 C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\obj\Debug\NUnitTestProject.dll
 C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\obj\Debug\NUnitTestProject.pdb
-C:\Users\Liliia_Klymenko\documents\visual studio 2013\Projects\NUnitTestProject\NUnitTestProject\obj\Debug\NUnitTestProject.csprojResolveAssemblyReference.cache
