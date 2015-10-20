@@ -6,7 +6,7 @@ using Task7.UI.Deals;
 namespace Task7.Tests
 { 
     [TestFixture]
-    class YaSearch : BaseTest
+    class LoginTest : BaseTest
     {
         [SetUp]
         public void Precondition()
